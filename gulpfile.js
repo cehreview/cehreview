@@ -2,6 +2,7 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var header = require('gulp-header');
 var cleanCSS = require('gulp-clean-css');
+var pkg = require('./package.json');
 var rename = require("gulp-rename");
 var browserSync = require('browser-sync').create();
 
