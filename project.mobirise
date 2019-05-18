@@ -44,7 +44,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "CEH - Certified Ethical Hacker Omar Santos",
         "meta_descr": "On-demand resources and Live and interactive training sessions by Omar Santos, designed to help you prepare for the EC-Council Certified Ethical Hacker (CEH) version 10 certification exam. In this training we will review the main topics and methodologies that you need to master the CEHv10 exam objectives. You will learn security penetration testing methodologies and concepts by going over step-by-step examples. Sample questions for each of the topics covered in the exam will be reviewed in each lesson.",
         "header_custom": "",
         "footer_custom": "",
